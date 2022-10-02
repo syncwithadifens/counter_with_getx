@@ -4,7 +4,7 @@ Belajar State Management GetX dengan Case Study Counter App Flutter.
 
 - [x] Increment
 - [x] Decrement
-- [x] Theme
+- [x] Theme Option
 
 ### Preview
 
